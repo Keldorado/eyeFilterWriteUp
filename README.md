@@ -8,4 +8,4 @@ The goal of designing this program is to empower musicians to think outside of t
 
 
 
-![highpassres.png](./highpassres.png)
+![highpassres.png](https://github.com/Keldorado/eyeFilterWriteUp/blob/master/Assets/highpassres.png)
